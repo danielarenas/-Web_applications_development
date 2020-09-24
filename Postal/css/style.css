@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(218, 164, 99);
+}
+
+section{
+    background-color: rgb(175, 223, 136);
+    width: 48%;
+    height: 400px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    
+
+}
+
+.image-left{
+
+    padding-right: 2em;
+    border-right: 3px dashed rgb(255, 255, 255);
+}
+
+.aleft{
+    float: left;
+}
+
+.aright{
+    float: right;
+}
+
+
+.label-text{
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    color: rgb(0, 0, 0);
+}
+.input-text{
+    width: 220px;
+    height: 25px;
+    right: 0;
+
+}
+.carticle{
+    padding-right: 5em;
+
+}
+.carticle h3{
+    font-weight: lighter;
+    font-family: cursive;
+}
+
+span >h3{
+    text-align: center;
+    display: block;
+}
+.bg-img{
+    background-image: url(../images/ifel.jpg);
+    width: 45%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
