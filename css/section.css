@@ -1,0 +1,139 @@
+
+section{
+    background-color: white;
+    width: 20%;
+    height: 250px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    margin-left: 4em;
+    box-shadow:5px 10px rgb(121, 118, 121);
+    margin-top: 6em;
+    padding-left: 0em;
+}
+.aleft{
+    float: left;
+}
+/*-----------------------header--------------------------*/
+body{
+    background-color: rgb(184, 185, 189);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: white ;
+    width: 100%;
+    height: 90px;   
+}
+header>div>h1{
+    margin-left: 0.5em;
+    margin-top: 0em;
+    padding: 0;
+    
+}
+.Opciones{
+float: right;
+margin-top: -3em;
+}
+.Title{
+    color: rgb(6, 6, 88);
+    padding-top: 1.5em;
+}
+.Opciones>nav>a{
+    color: blue;
+    text-decoration: none;
+    padding-top: .5em;
+    margin-right: 1em;
+    font-size: large;
+}
+.text-header>h1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    padding-top: 8%;
+    padding-left: 35em;
+    
+}
+.img-media{
+    max-width: 24px;
+    margin-left: 0.5em;
+    margin-top: 1em;
+    text-align: center;
+}
+
+/*-----------------productos-------------*/
+.producto1{
+    background-image: url(../Images/pro1.jpg);
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.producto2{
+    background-image: url(../Images/pro2.jpg);
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.producto3{
+    background-image: url(../Images/pro3.jpg);
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.producto4{
+    background-image: url(../Images/pro4.jpg);
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.producto5{
+    background-image: url(../Images/pro5.jpg);
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.producto6{
+    background-image: url(../Images/pro6.jpg);
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.producto7{
+    background-image: url(../Images/pro7.jpg);
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.producto8{
+    background-image: url(../Images/pro8.jpg);
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+
+
+
+/*--------footer------------*/
+
+footer{
+    background-color: rgb(19, 18, 18);
+    clear: both;
+    margin-top: 50em;
+    width: 100%;
+    height: 50px;
+    padding-top: 0em;
+}
+footer>p{
+    padding-top: 1.5em;
+    color: white;
+    margin-left: 42%;
+}
