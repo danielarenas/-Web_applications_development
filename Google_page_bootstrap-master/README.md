@@ -1,0 +1,1 @@
+The attempt was to make a google search page using HTML, CSS and BOOTSTRAP .... The idea was taken from The Odin Project site , I have not made a separate doc for CSS just tried to entirely use BOOTSTRAP (some CSS styles have also been used). To improve the outlook of the page CSS and certain other properties of BOOTSTRAP like nav , navbar etc should also be used  --- Daniyal
