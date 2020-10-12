@@ -1,0 +1,60 @@
+/*nagy betük a fejezetekhez és a szlogenhez: font-family: 'Staatliches', cursive, ; */
+/*handwritten letters: font-family: 'Dancing Script', cursive;*/
+/*nyomtatott, de kézzel írott: font-family: 'Indie Flower', cursive;*/
+
+
+* {
+    font-family: 'Indie Flower', cursive, Helvetica;  
+}
+/*--------------NAVBAR-----------------*/
+/*--------------MAIN FOTO---------------*/
+.jumbotron {
+    height: 100vh;
+    background-image: url(img/forest-silouhette-david-papillon.jpg);
+    background-size: cover;
+    background-repeat: no repeat;
+   }
+
+   .jumbotron h4 {
+    font-family: 'Dancing Script', cursive, ;   
+   }
+/*--------------ABOUT US---------------*/
+
+.container > .card > .about-us h6, h3 {
+    font-family: 'Dancing Script', cursive ;  
+}
+/*--------------GALLERY---------------*/
+/*--------------HOUSES-----------------*/
+/*funkar ej*/
+#rooms > .rooms-headline h3 {
+    font-family: 'Dancing Script', cursive ;   
+   }
+/*--------------REVIEW----------------*/
+/*--------------CAROUSEL WITH REVIEWS---------*/
+/*--------------FOOTER--------------------*/
+.foot > .row > .col-12 > .address {
+    list-style: none;
+}
+
+.foot > .card> .card-img-overlay {
+    margin-top: 10%;
+}
+
+.foot > .card> .card-img-overlay > .row > .col-12 > .address li {
+    display: block;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 400px) {
+    .foot > .card> .card-img-overlay {
+        margin-top: 2%;
+    }
+}
+
+.btn-dark {
+    background-color: rgb(55, 117, 99);
+}
+
+#houses > .card-deck > .card > .card-header {
+    background-color: rgb(12, 87, 80);
+}
